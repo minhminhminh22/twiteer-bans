@@ -1,1 +1,1 @@
-# twiteer-bans
+# twitter-bans
