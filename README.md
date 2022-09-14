@@ -1,6 +1,6 @@
 # twitter-bans
 
-The goal of your project: 
+The goal of my project is to analyze twitter reactions after the decision on Roe v. Wade, specifically whether the banned tweets mention about the Supreme Court, and how many retweets are they getting before getting flagged down.
 
 Links to any relevant API documentation
 
